@@ -15,5 +15,5 @@ In this exercise, two different clustering methods (K-Means and DBSCAN) have bee
   Jupiter Notebook:Anaconda(5.1.0)with Python 2.7
 
 ## Instructions to excecute the script file:
-	Open Aassignmnet2 in Jupiter Notebook:Anaconda(5.1.0)with Python 2.7
-	Main menu-> Kernal-> Restart & Run All
+  Open Codes.ipynb in Jupiter Notebook:Anaconda(5.1.0)with Python 2.7
+  Main menu-> Kernal-> Restart & Run All
